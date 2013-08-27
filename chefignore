@@ -9,3 +9,6 @@
 
 # subversion
 */.svn/*
+
+#knife config
+.chef
